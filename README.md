@@ -13,7 +13,7 @@ Build a task management application that allows users to add, delete, and mark t
 
 ## Live Link
 
-https://task-mangement-app-crud-using-react-a3fttryce-md-naims-projects.vercel.app/
+https://task-mangement-app-crud.vercel.app/
 ## Installation
 
 Install my-project with yarn
